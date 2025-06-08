@@ -2,7 +2,7 @@
 	"credit": "Made with Blockbench",
 	"parent": "minecraft:item/handheld",
 	"textures": {
-		"layer0": "./great_bone_axe_small"
+		"layer0": "./hache_os"
 	},
 	"gui_light": "front",
 	"display": {
