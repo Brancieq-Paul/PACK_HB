@@ -4,8 +4,8 @@
 		"1": "block/dirt",
 		"2": "block/cactus_side",
 		"3": "block/red_mushroom_block",
-		"4": "./etuve",
-		"5": "./etuve2",
+		"4": "./etuve_rouge",
+		"5": "./etuve2_rouge",
 		"particle": "block/flower_pot"
 	},
 	"elements": [
