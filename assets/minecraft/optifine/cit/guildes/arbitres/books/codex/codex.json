@@ -1,9 +1,9 @@
 {
 	"credit": "Made with Blockbench",
 	"textures": {
-		"0": "./balance",
-		"1": "./rouge",
-		"2": "./or",
+		"0": "./codex_balance",
+		"1": "./codex_rouge",
+		"2": "./codex_or",
 		"3": "minecraft:block/netherite_block",
 		"4": "minecraft:item/string"
 	},

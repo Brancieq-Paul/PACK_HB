@@ -1,12 +1,12 @@
 {
 	"credit": "Made with Blockbench",
 	"textures": {
-		"0": "./argent",
-		"1": "./rouge",
-		"2": "./balance",
+		"0": "./collecteur_argent",
+		"1": "./collecteur_rouge",
+		"2": "./collecteur_balance",
 		"3": "item/string",
-		"4": "./couverture",
-		"6": "./sombre"
+		"4": "./collecteur_couverture",
+		"6": "./collecteur_sombre"
 	},
 	"elements": [
 		{
