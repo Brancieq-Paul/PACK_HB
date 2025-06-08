@@ -3,7 +3,7 @@
 	"textures": {
 		"0": "./spruce_planks",
 		"1": "./stripped_dark_oak_log",
-		"2": "./bone_block_side",
+		"2": "./bone_block_side_herbivores",
 		"3": "./fond_noir",
 		"5": "./base_bois",
 		"6": "./bois_variante",
