@@ -1,10 +1,8 @@
 {
 	"__comment": "Designed by Eltharion with Cubik Studio - https://cubik.studio",
 	"textures": {
-		"apprenti": "apprenti",
 		"apprenti_atlas": "./apprenti_atlas"
 	},
-	"gui_light": "front",
 	"gui_light": "front",
 	"elements": [
 		{

@@ -1,6 +1,5 @@
 {
 	"textures": {
-		"membre": "membre",
 		"texture": "./membre_atlas"
 	},
 	"gui_light": "front",
