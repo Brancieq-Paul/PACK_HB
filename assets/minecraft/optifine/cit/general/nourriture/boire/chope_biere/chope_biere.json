@@ -4,7 +4,7 @@
 		"1": "./oak_log",
 		"3": "./mousse",
 		"4": "./furnace_side",
-		"5": "./stripped_oak_log"
+		"5": "assets/minecraft/optifine/cit/common/stripped_oak_log"
 	},
 	"gui_light": "front",
 	"elements": [

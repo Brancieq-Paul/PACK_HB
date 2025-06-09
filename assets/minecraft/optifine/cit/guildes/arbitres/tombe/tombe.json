@@ -2,11 +2,11 @@
 	"credit": "Made by Inposa with Blockbench",
 	"textures": {
 		"2": "minecraft:block/coal_block",
-		"3": "./argent",
+		"3": "../argent",
 		"4": "minecraft:block/netherite_block",
-		"5": "./balance",
+		"5": "../balance",
 		"6": "./bois",
-		"8": "./rouge"
+		"8": "assets/minecraft/optifine/cit/general/vetements/tenues_grade/membre_honore/membreplus_atlas"
 	},
 	"elements": [
 		{

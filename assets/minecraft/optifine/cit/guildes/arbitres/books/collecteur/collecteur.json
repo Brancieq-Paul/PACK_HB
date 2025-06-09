@@ -1,9 +1,9 @@
 {
 	"credit": "Made with Blockbench",
 	"textures": {
-		"0": "./collecteur_argent",
-		"1": "./collecteur_rouge",
-		"2": "./collecteur_balance",
+		"0": "../../argent",
+		"1": "assets/minecraft/optifine/cit/general/vetements/tenues_grade/membre_honore/membreplus_atlas",
+		"2": "../../balance",
 		"3": "item/string",
 		"4": "./collecteur_couverture",
 		"6": "./collecteur_sombre"
