@@ -3,7 +3,7 @@
 	"textures": {
 		"0": "assets/minecraft/optifine/cit/common/stripped_oak_log",
 		"1": "./water_still",
-		"particle": "assets/minecraft/optifine/cit/common/stripped_oak_log"
+		"particle": "block/water_still"
 	},
 	"elements": [
 		{
