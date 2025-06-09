@@ -2,7 +2,7 @@
 	"credit": "Made By Fritz_angelos",
 	"texture_size": [64, 64],
 	"textures": {
-		"1": "./textures/textures_dragon_skeleton_set/model_textures/tools/dragon_skeleton_axe"
+		"1": "./dragon_skeleton_axe"
 	},
 	"elements": [
 		{

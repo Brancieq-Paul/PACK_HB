@@ -1,6 +1,6 @@
 {
 	"credit": "Made with Blockbench by Flarian & Sanguis & Kate",
-	"parent": "book",
+	"parent": "item/book",
 	"texture_size": [1024, 1024],
 	"textures": {
 		"0": "textures/block/obsidian",

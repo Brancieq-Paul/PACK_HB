@@ -2,7 +2,7 @@
 	"credit": "Designed by Letutout for Herobrine.fr",
 	"textures": {
 		"0": "assets/minecraft/optifine/cit/common/stripped_oak_log",
-		"1": "./water_still",
+		"1": "block/water_still",
 		"particle": "block/water_still"
 	},
 	"elements": [

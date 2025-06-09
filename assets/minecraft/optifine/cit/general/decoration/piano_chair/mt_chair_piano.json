@@ -3,7 +3,7 @@
 	"parent": "block/block",
 	"textures": {
 		"frame": "./piano_chair_red_brown",
-		"parts": "./moviecamera2"
+		"parts": "assets/miniaturia/textures/block/moviecamera2.png"
 	},
 	"elements": [
 		{
