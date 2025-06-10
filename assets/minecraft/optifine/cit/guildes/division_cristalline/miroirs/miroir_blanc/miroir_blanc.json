@@ -3,7 +3,7 @@
 	"textures": {
 		"1": "block/gold_block",
 		"2": "block/spruce_log",
-		"4": "./miroir2_blanc",
+		"4": "../miroir2",
 		"particle": "block/gold_block"
 	},
 	"elements": [

@@ -40,8 +40,8 @@
 	  }
 	},
 	"textures": {
-	  "0": "./turquoise",
-	  "particle": "./turquoise"
+	  "0": "../cristal",
+	  "particle": "../cristal"
 	},
 	"elements": [
 	  {

@@ -4,7 +4,7 @@
 	"textures": {
 		"0": "block/gold_block",
 		"particle": "block/gold_block",
-		"1_1": "./miroir2_poche_noir"
+		"1_1": "../miroir2_poche"
 	},
 	"elements": [
 		{
